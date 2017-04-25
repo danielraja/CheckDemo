@@ -25,6 +25,10 @@ public class AppTest extends TestCase {
 		return new TestSuite(AppTest.class);
 	}
 
+	public void testAppMethod() {
+		assertTrue(true);
+	}
+
 	/**
 	 * Rigourous Test :-)
 	 */
