@@ -18,19 +18,11 @@ public class AppTest extends TestCase {
 		super(testName);
 	}
 
-	public void masterApp() {
-		assertTrue(true);
-	}
-
 	/**
 	 * @return the suite of tests being tested
 	 */
 	public static Test suite() {
 		return new TestSuite(AppTest.class);
-	}
-
-	public void testAppMethod() {
-		assertTrue(true);
 	}
 
 	/**
@@ -40,11 +32,4 @@ public class AppTest extends TestCase {
 		assertTrue(true);
 	}
 
-	public void testClass() {
-		assertTrue(true);
-	}
-
-	public void masterClass() {
-		assertTrue(true);
-	}
 }
