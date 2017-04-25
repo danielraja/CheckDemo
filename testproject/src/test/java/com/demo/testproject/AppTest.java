@@ -40,6 +40,10 @@ public class AppTest extends TestCase {
 		assertTrue(true);
 	}
 
+	public void testClass() {
+		assertTrue(true);
+	}
+
 	public void masterClass() {
 		assertTrue(true);
 	}
