@@ -5,10 +5,4 @@ public class BaseTest1 {
 		System.out.print("Test class...");
 	}
 
-	public void branch() {
-	}
-
-	public void master() {
-
-	}
 }
