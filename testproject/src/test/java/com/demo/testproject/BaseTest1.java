@@ -6,6 +6,9 @@ public class BaseTest1 {
 	}
 
 	public void branch() {
+	}
+
+	public void master() {
 
 	}
 }
