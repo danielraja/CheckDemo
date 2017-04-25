@@ -36,7 +36,11 @@ public class AppTest extends TestCase {
 		assertTrue(false);
 	}
 
-	public void masterMethod() {
+	public void MasterMethod() {
+		assertTrue(false);
+	}
+
+	public void BranchMethod() {
 		assertTrue(false);
 	}
 }
