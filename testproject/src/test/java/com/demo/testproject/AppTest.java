@@ -35,17 +35,15 @@ public class AppTest extends TestCase {
 	public void masterchange()
 	{
 		
-		System.out.println("Hi I am in master");
-		
 	}
 	
 	public void masterMethod2()
 	{
-		System.out.println("Hi I am in master");
+
 	}
 
 	public void BranchMethod()
 	{
-		System.out.println("Hi I am in master");
+
 	}
 }
