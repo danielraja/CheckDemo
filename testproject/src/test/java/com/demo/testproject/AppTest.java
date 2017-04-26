@@ -32,4 +32,8 @@ public class AppTest extends TestCase {
 		assertTrue(true);
 	}
 
+	public void BranchMethod()
+	{
+		
+	}
 }
