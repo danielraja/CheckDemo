@@ -34,16 +34,16 @@ public class AppTest extends TestCase {
 	
 	public void masterchange()
 	{
-		
+		System.out.println("Hi I am new update");
 	}
 	
 	public void masterMethod2()
 	{
-		
+		System.out.println("Hi I am new update");
 	}
 
 	public void BranchMethod()
 	{
-		
+		System.out.println("Hi I am new update");
 	}
 }
