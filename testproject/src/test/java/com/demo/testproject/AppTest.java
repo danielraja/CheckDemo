@@ -32,18 +32,4 @@ public class AppTest extends TestCase {
 		assertTrue(true);
 	}
 	
-	public void masterchange()
-	{
-		
-	}
-	
-	public void masterMethod2()
-	{
-		
-	}
-
-	public void BranchMethod()
-	{
-		
-	}
 }
